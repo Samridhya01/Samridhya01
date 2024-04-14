@@ -8,6 +8,9 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=SAMRAT XD%20;ETHICAL%20HACKER%20;FULL-STACK%20WEB%20AND%20APP%20DEVELOPER;ARTIFICIAL%20INTELLIGENCE%20(AI);PROGRAMMER%20;3%2B%20YEAR's%20OF%20CODING%20EXPERIENCE;ALWAYS%20LEARNING%20NEW%20THINGS&font=fira%20Code&center=true&width=440&height=35&color=20C20E&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
+<a href="https://github.com/samridhya01">
+    <img src="contributions.svg" />
+  </a>
 
 - 👋 Hi, I’m @Samridhya01
 - 👀 I’m interested in CODEING
